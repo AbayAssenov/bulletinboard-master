@@ -1,0 +1,50 @@
+﻿Users list:
+
+0)		user name : Administrator
+		email: admin@admin.com
+		password : admin123
+		
+-------------------------------------------------------------
+1)		user name : Абай
+		email: nofrant@mail.ru
+		password : star123
+
+3)		user name : Igor
+		email: igor100@yahoo.com
+		password : qwerty123
+
+4)		user name : VasyaOne
+		email: coolman@ya.ru
+		password : qwerty123
+
+5)		user name : Рита
+		email: gita@m6.com
+		password : qwert123
+
+6)		user name : bumer011
+		email: bum@q.qq	
+		password : qwerty123
+
+7)		user name : superman777
+		email: qwerty@q.qq
+		password : qwerty123
+
+8)		user name : starbucks	
+		email: st@st.st
+		password : qwerty132
+
+9)		user name : WindOfChange	
+		email: q@q.q
+		password : qwerty132
+
+10)		user name : Lolita
+		email: lolita@l.ru
+		password : qwerty123
+		
+11)		user name : Hatab
+		email: zero@1.ru
+		password : qwerty123
+		
+12)		user name : Сакура
+		email: sakura@sakura.com
+		password : qwerty123
